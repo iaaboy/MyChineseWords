@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": "a4ef1ad7-6428-4e81-b163-c8b2b88d0204",
+      "hanzi": "一个人",
+      "pinyin": "yí ge rén",
+      "meaning": "한 사람; 혼자"
+    },
+    {
+      "id": "f5cf43ca-5e9a-4a6f-af4f-c43237824fa2",
+      "hanzi": "大人",
+      "pinyin": "dàrén",
+      "meaning": "어른; 성인"
+    },
+    {
+      "id": "cc84243c-a9bb-4940-b995-2228f4c0f401",
+      "hanzi": "大学",
+      "pinyin": "dàxué",
+      "meaning": "대학교"
+    },
+    {
+      "id": "6d48d195-52d1-4548-9ad4-560f100e028c",
+      "hanzi": "韩国",
+      "pinyin": "Hánguó",
+      "meaning": "한국"
+    },
+    {
+      "id": "7f87b9fd-eb3e-41c0-91ad-9d2ba1978cac",
+      "hanzi": "学生",
+      "pinyin": "xuésheng",
+      "meaning": "학생"
+    }
+  ]
+}
