@@ -30,6 +30,42 @@
       "hanzi": "学生",
       "pinyin": "xuésheng",
       "meaning": "학생"
+    },
+    {
+      "id": "c8649139-3aa5-4280-8f98-f172b889807e",
+      "hanzi": "遇到",
+      "pinyin": "yùdào",
+      "meaning": "만나다; 마주치다"
+    },
+    {
+      "id": "8176c338-4837-4496-8156-b4f2ef74ea59",
+      "hanzi": "一位",
+      "pinyin": "yí wèi",
+      "meaning": "한 분 (존칭)"
+    },
+    {
+      "id": "ba7c7cea-f4ea-4156-ba01-bf57bd87713c",
+      "hanzi": "先",
+      "pinyin": "xiān",
+      "meaning": "먼저; 우선"
+    },
+    {
+      "id": "8e31f57a-d41e-47d6-a468-e411cfe926b0",
+      "hanzi": "问候",
+      "pinyin": "wènhòu",
+      "meaning": "안부를 묻다; 인사하다"
+    },
+    {
+      "id": "5b2485c5-9769-4b72-a975-a18d27b2e953",
+      "hanzi": "变得",
+      "pinyin": "biànde",
+      "meaning": "…해지다; …하게 되다"
+    },
+    {
+      "id": "6214ed40-5e60-4d28-8ee2-ae97137342b8",
+      "hanzi": "温暖",
+      "pinyin": "wēnnuǎn",
+      "meaning": "따뜻하다"
     }
   ]
 }
