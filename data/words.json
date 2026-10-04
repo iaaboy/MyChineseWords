@@ -1,82 +1,88 @@
 {
-    "version": 1,
-    "words": [
+  "version": 2,
+  "books": [
+    {
+      "id": "00000000-0000-4000-8000-000000000001",
+      "name": "기본 단어장",
+      "words": [
         {
-            "id": "a4ef1ad7-6428-4e81-b163-c8b2b88d0204",
-            "hanzi": "一个人",
-            "pinyin": "yí ge rén",
-            "meaning": "한 사람; 혼자",
-            "tags": []
+          "id": "a4ef1ad7-6428-4e81-b163-c8b2b88d0204",
+          "hanzi": "一个人",
+          "pinyin": "yí ge rén",
+          "meaning": "한 사람; 혼자",
+          "tags": []
         },
         {
-            "id": "f5cf43ca-5e9a-4a6f-af4f-c43237824fa2",
-            "hanzi": "大人",
-            "pinyin": "dàrén",
-            "meaning": "어른; 성인",
-            "tags": []
+          "id": "f5cf43ca-5e9a-4a6f-af4f-c43237824fa2",
+          "hanzi": "大人",
+          "pinyin": "dàrén",
+          "meaning": "어른; 성인",
+          "tags": []
         },
         {
-            "id": "cc84243c-a9bb-4940-b995-2228f4c0f401",
-            "hanzi": "大学",
-            "pinyin": "dàxué",
-            "meaning": "대학교",
-            "tags": []
+          "id": "cc84243c-a9bb-4940-b995-2228f4c0f401",
+          "hanzi": "大学",
+          "pinyin": "dàxué",
+          "meaning": "대학교",
+          "tags": []
         },
         {
-            "id": "6d48d195-52d1-4548-9ad4-560f100e028c",
-            "hanzi": "韩国",
-            "pinyin": "Hánguó",
-            "meaning": "한국",
-            "tags": []
+          "id": "6d48d195-52d1-4548-9ad4-560f100e028c",
+          "hanzi": "韩国",
+          "pinyin": "Hánguó",
+          "meaning": "한국",
+          "tags": []
         },
         {
-            "id": "7f87b9fd-eb3e-41c0-91ad-9d2ba1978cac",
-            "hanzi": "学生",
-            "pinyin": "xuésheng",
-            "meaning": "학생",
-            "tags": []
+          "id": "7f87b9fd-eb3e-41c0-91ad-9d2ba1978cac",
+          "hanzi": "学生",
+          "pinyin": "xuésheng",
+          "meaning": "학생",
+          "tags": []
         },
         {
-            "id": "c8649139-3aa5-4280-8f98-f172b889807e",
-            "hanzi": "遇到",
-            "pinyin": "yùdào",
-            "meaning": "만나다; 마주치다",
-            "tags": []
+          "id": "c8649139-3aa5-4280-8f98-f172b889807e",
+          "hanzi": "遇到",
+          "pinyin": "yùdào",
+          "meaning": "만나다; 마주치다",
+          "tags": []
         },
         {
-            "id": "8176c338-4837-4496-8156-b4f2ef74ea59",
-            "hanzi": "一位",
-            "pinyin": "yí wèi",
-            "meaning": "한 분 (존칭)",
-            "tags": []
+          "id": "8176c338-4837-4496-8156-b4f2ef74ea59",
+          "hanzi": "一位",
+          "pinyin": "yí wèi",
+          "meaning": "한 분 (존칭)",
+          "tags": []
         },
         {
-            "id": "ba7c7cea-f4ea-4156-ba01-bf57bd87713c",
-            "hanzi": "先",
-            "pinyin": "xiān",
-            "meaning": "먼저; 우선",
-            "tags": []
+          "id": "ba7c7cea-f4ea-4156-ba01-bf57bd87713c",
+          "hanzi": "先",
+          "pinyin": "xiān",
+          "meaning": "먼저; 우선",
+          "tags": []
         },
         {
-            "id": "8e31f57a-d41e-47d6-a468-e411cfe926b0",
-            "hanzi": "问候",
-            "pinyin": "wènhòu",
-            "meaning": "안부를 묻다; 인사하다",
-            "tags": []
+          "id": "8e31f57a-d41e-47d6-a468-e411cfe926b0",
+          "hanzi": "问候",
+          "pinyin": "wènhòu",
+          "meaning": "안부를 묻다; 인사하다",
+          "tags": []
         },
         {
-            "id": "5b2485c5-9769-4b72-a975-a18d27b2e953",
-            "hanzi": "变得",
-            "pinyin": "biànde",
-            "meaning": "…해지다; …하게 되다",
-            "tags": []
+          "id": "5b2485c5-9769-4b72-a975-a18d27b2e953",
+          "hanzi": "变得",
+          "pinyin": "biànde",
+          "meaning": "…해지다; …하게 되다",
+          "tags": []
         },
         {
-            "id": "6214ed40-5e60-4d28-8ee2-ae97137342b8",
-            "hanzi": "温暖",
-            "pinyin": "wēnnuǎn",
-            "meaning": "따뜻하다",
-            "tags": []
+          "id": "6214ed40-5e60-4d28-8ee2-ae97137342b8",
+          "hanzi": "温暖",
+          "pinyin": "wēnnuǎn",
+          "meaning": "따뜻하다",
+          "tags": []
         }
-    ]
+      ]
+    }
+  ]
 }
