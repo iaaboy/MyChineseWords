@@ -1,88 +1,247 @@
 {
-  "version": 2,
-  "books": [
-    {
-      "id": "00000000-0000-4000-8000-000000000001",
-      "name": "기본 단어장",
-      "words": [
+    "version": 2,
+    "books": [
         {
-          "id": "a4ef1ad7-6428-4e81-b163-c8b2b88d0204",
-          "hanzi": "一个人",
-          "pinyin": "yí ge rén",
-          "meaning": "한 사람; 혼자",
-          "tags": []
-        },
-        {
-          "id": "f5cf43ca-5e9a-4a6f-af4f-c43237824fa2",
-          "hanzi": "大人",
-          "pinyin": "dàrén",
-          "meaning": "어른; 성인",
-          "tags": []
-        },
-        {
-          "id": "cc84243c-a9bb-4940-b995-2228f4c0f401",
-          "hanzi": "大学",
-          "pinyin": "dàxué",
-          "meaning": "대학교",
-          "tags": []
-        },
-        {
-          "id": "6d48d195-52d1-4548-9ad4-560f100e028c",
-          "hanzi": "韩国",
-          "pinyin": "Hánguó",
-          "meaning": "한국",
-          "tags": []
-        },
-        {
-          "id": "7f87b9fd-eb3e-41c0-91ad-9d2ba1978cac",
-          "hanzi": "学生",
-          "pinyin": "xuésheng",
-          "meaning": "학생",
-          "tags": []
-        },
-        {
-          "id": "c8649139-3aa5-4280-8f98-f172b889807e",
-          "hanzi": "遇到",
-          "pinyin": "yùdào",
-          "meaning": "만나다; 마주치다",
-          "tags": []
-        },
-        {
-          "id": "8176c338-4837-4496-8156-b4f2ef74ea59",
-          "hanzi": "一位",
-          "pinyin": "yí wèi",
-          "meaning": "한 분 (존칭)",
-          "tags": []
-        },
-        {
-          "id": "ba7c7cea-f4ea-4156-ba01-bf57bd87713c",
-          "hanzi": "先",
-          "pinyin": "xiān",
-          "meaning": "먼저; 우선",
-          "tags": []
-        },
-        {
-          "id": "8e31f57a-d41e-47d6-a468-e411cfe926b0",
-          "hanzi": "问候",
-          "pinyin": "wènhòu",
-          "meaning": "안부를 묻다; 인사하다",
-          "tags": []
-        },
-        {
-          "id": "5b2485c5-9769-4b72-a975-a18d27b2e953",
-          "hanzi": "变得",
-          "pinyin": "biànde",
-          "meaning": "…해지다; …하게 되다",
-          "tags": []
-        },
-        {
-          "id": "6214ed40-5e60-4d28-8ee2-ae97137342b8",
-          "hanzi": "温暖",
-          "pinyin": "wēnnuǎn",
-          "meaning": "따뜻하다",
-          "tags": []
+            "id": "00000000-0000-4000-8000-000000000001",
+            "name": "기본 단어장",
+            "words": [
+                {
+                    "id": "a4ef1ad7-6428-4e81-b163-c8b2b88d0204",
+                    "hanzi": "一个人",
+                    "pinyin": "yí ge rén",
+                    "meaning": "한 사람; 혼자",
+                    "tags": []
+                },
+                {
+                    "id": "f5cf43ca-5e9a-4a6f-af4f-c43237824fa2",
+                    "hanzi": "大人",
+                    "pinyin": "dàrén",
+                    "meaning": "어른; 성인",
+                    "tags": []
+                },
+                {
+                    "id": "cc84243c-a9bb-4940-b995-2228f4c0f401",
+                    "hanzi": "大学",
+                    "pinyin": "dàxué",
+                    "meaning": "대학교",
+                    "tags": []
+                },
+                {
+                    "id": "6d48d195-52d1-4548-9ad4-560f100e028c",
+                    "hanzi": "韩国",
+                    "pinyin": "Hánguó",
+                    "meaning": "한국",
+                    "tags": []
+                },
+                {
+                    "id": "7f87b9fd-eb3e-41c0-91ad-9d2ba1978cac",
+                    "hanzi": "学生",
+                    "pinyin": "xuésheng",
+                    "meaning": "학생",
+                    "tags": []
+                },
+                {
+                    "id": "c8649139-3aa5-4280-8f98-f172b889807e",
+                    "hanzi": "遇到",
+                    "pinyin": "yùdào",
+                    "meaning": "만나다; 마주치다",
+                    "tags": []
+                },
+                {
+                    "id": "8176c338-4837-4496-8156-b4f2ef74ea59",
+                    "hanzi": "一位",
+                    "pinyin": "yí wèi",
+                    "meaning": "한 분 (존칭)",
+                    "tags": []
+                },
+                {
+                    "id": "ba7c7cea-f4ea-4156-ba01-bf57bd87713c",
+                    "hanzi": "先",
+                    "pinyin": "xiān",
+                    "meaning": "먼저; 우선",
+                    "tags": []
+                },
+                {
+                    "id": "8e31f57a-d41e-47d6-a468-e411cfe926b0",
+                    "hanzi": "问候",
+                    "pinyin": "wènhòu",
+                    "meaning": "안부를 묻다; 인사하다",
+                    "tags": []
+                },
+                {
+                    "id": "5b2485c5-9769-4b72-a975-a18d27b2e953",
+                    "hanzi": "变得",
+                    "pinyin": "biànde",
+                    "meaning": "…해지다; …하게 되다",
+                    "tags": []
+                },
+                {
+                    "id": "6214ed40-5e60-4d28-8ee2-ae97137342b8",
+                    "hanzi": "温暖",
+                    "pinyin": "wēnnuǎn",
+                    "meaning": "따뜻하다",
+                    "tags": []
+                },
+                {
+                    "id": "a207e12c-bff9-4dd7-accd-ee880de48f6f",
+                    "hanzi": "高铁",
+                    "pinyin": "gāotiě",
+                    "meaning": "고속열차, 고속철도",
+                    "example": "我想坐高铁去上海。",
+                    "examplePinyin": "Wǒ xiǎng zuò gāotiě qù Shànghǎi.",
+                    "exampleMeaning": "저는 고속열차를 타고 상하이에 가고 싶어요.",
+                    "tags": [
+                        "여행",
+                        "기차"
+                    ]
+                },
+                {
+                    "id": "92292de2-43a6-480f-a02a-2db8d31474ac",
+                    "hanzi": "车票",
+                    "pinyin": "chēpiào",
+                    "meaning": "차표, 기차표",
+                    "example": "请给我一张去北京的车票。",
+                    "examplePinyin": "Qǐng gěi wǒ yì zhāng qù Běijīng de chēpiào.",
+                    "exampleMeaning": "베이징으로 가는 기차표 한 장 주세요.",
+                    "tags": [
+                        "여행",
+                        "기차"
+                    ]
+                },
+                {
+                    "id": "86e507e3-3bc9-4d70-aa95-c3467defadab",
+                    "hanzi": "还有",
+                    "pinyin": "hái yǒu",
+                    "meaning": "아직 있다, 그 밖에도 있다",
+                    "example": "去上海的高铁票还有吗？",
+                    "examplePinyin": "Qù Shànghǎi de gāotiě piào hái yǒu ma?",
+                    "exampleMeaning": "상하이로 가는 고속열차 표가 아직 있나요?",
+                    "tags": [
+                        "여행",
+                        "회화"
+                    ]
+                },
+                {
+                    "id": "90fdde8c-863d-4e81-8671-d698638bf4ee",
+                    "hanzi": "打算",
+                    "pinyin": "dǎsuàn",
+                    "meaning": "계획하다, ~할 생각이다",
+                    "example": "您打算什么时候出发？",
+                    "examplePinyin": "Nín dǎsuàn shénme shíhou chūfā?",
+                    "exampleMeaning": "언제 출발하실 계획인가요?",
+                    "tags": [
+                        "HSK4",
+                        "계획"
+                    ]
+                },
+                {
+                    "id": "b043bb1e-f136-4612-bfeb-20b82c16c0e7",
+                    "hanzi": "出发",
+                    "pinyin": "chūfā",
+                    "meaning": "출발하다",
+                    "example": "我想明天上午出发。",
+                    "examplePinyin": "Wǒ xiǎng míngtiān shàngwǔ chūfā.",
+                    "exampleMeaning": "저는 내일 오전에 출발하고 싶어요.",
+                    "tags": [
+                        "HSK4",
+                        "여행"
+                    ]
+                },
+                {
+                    "id": "3a58e5fb-7669-4683-9c6e-e25d5652df20",
+                    "hanzi": "上午",
+                    "pinyin": "shàngwǔ",
+                    "meaning": "오전",
+                    "example": "明天上午有九点的车。",
+                    "examplePinyin": "Míngtiān shàngwǔ yǒu jiǔ diǎn de chē.",
+                    "exampleMeaning": "내일 오전에는 9시 열차가 있습니다.",
+                    "tags": [
+                        "HSK1",
+                        "시간"
+                    ]
+                },
+                {
+                    "id": "80e8f7cf-60f2-498e-95d7-746c371a59f9",
+                    "hanzi": "时间",
+                    "pinyin": "shíjiān",
+                    "meaning": "시간",
+                    "example": "您要哪个时间？",
+                    "examplePinyin": "Nín yào nǎge shíjiān?",
+                    "exampleMeaning": "어느 시간으로 하시겠어요?",
+                    "tags": [
+                        "HSK1",
+                        "시간"
+                    ]
+                },
+                {
+                    "id": "642dd13d-d72d-4b53-ab46-5cdbcdb10876",
+                    "hanzi": "二等座",
+                    "pinyin": "èrděngzuò",
+                    "meaning": "2등석",
+                    "example": "请给我一张二等座的票。",
+                    "examplePinyin": "Qǐng gěi wǒ yì zhāng èrděngzuò de piào.",
+                    "exampleMeaning": "2등석 표 한 장 주세요.",
+                    "tags": [
+                        "여행",
+                        "기차",
+                        "좌석"
+                    ]
+                },
+                {
+                    "id": "d0ea3fed-1bd1-4339-9ff1-b33da63b3c33",
+                    "hanzi": "一等座",
+                    "pinyin": "yīděngzuò",
+                    "meaning": "1등석",
+                    "example": "一等座的票多少钱？",
+                    "examplePinyin": "Yīděngzuò de piào duōshao qián?",
+                    "exampleMeaning": "1등석 표는 얼마인가요?",
+                    "tags": [
+                        "여행",
+                        "기차",
+                        "좌석"
+                    ]
+                },
+                {
+                    "id": "42dcde1a-7435-4c1e-abcb-36ab2226602e",
+                    "hanzi": "一张",
+                    "pinyin": "yì zhāng",
+                    "meaning": "한 장",
+                    "example": "我要一张去上海的票。",
+                    "examplePinyin": "Wǒ yào yì zhāng qù Shànghǎi de piào.",
+                    "exampleMeaning": "상하이로 가는 표 한 장 주세요.",
+                    "tags": [
+                        "양사",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "201b2891-d06f-408e-b595-16e5906ab5f6",
+                    "hanzi": "一共",
+                    "pinyin": "yígòng",
+                    "meaning": "전부, 모두 합쳐서, 총",
+                    "example": "一共是三百二十元。",
+                    "examplePinyin": "Yígòng shì sānbǎi èrshí yuán.",
+                    "exampleMeaning": "총 320위안입니다.",
+                    "tags": [
+                        "HSK3",
+                        "결제"
+                    ]
+                },
+                {
+                    "id": "90b352b2-b87a-4a9f-8862-ab61784a9160",
+                    "hanzi": "元",
+                    "pinyin": "yuán",
+                    "meaning": "위안, 중국 화폐의 기본 단위",
+                    "example": "这张票是三百二十元。",
+                    "examplePinyin": "Zhè zhāng piào shì sānbǎi èrshí yuán.",
+                    "exampleMeaning": "이 표는 320위안입니다.",
+                    "tags": [
+                        "HSK1",
+                        "화폐",
+                        "결제"
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
