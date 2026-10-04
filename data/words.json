@@ -240,6 +240,281 @@
                         "화폐",
                         "결제"
                     ]
+                },
+                {
+                    "id": "fe20c619-aa89-4346-8cb5-adbc251f7459",
+                    "hanzi": "是",
+                    "pinyin": "shì",
+                    "meaning": "~이다",
+                    "example": "他是我的同事。",
+                    "examplePinyin": "Tā shì wǒ de tóngshì.",
+                    "exampleMeaning": "그는 제 동료입니다.",
+                    "tags": [
+                        "판단",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "8fb5e81d-d42a-4fb3-b49f-f893558c1213",
+                    "hanzi": "不",
+                    "pinyin": "bù",
+                    "meaning": "아니; ~하지 않다 (부정 부사)",
+                    "example": "我不喝咖啡。",
+                    "examplePinyin": "Wǒ bù hē kāfēi.",
+                    "exampleMeaning": "저는 커피를 마시지 않아요.",
+                    "tags": [
+                        "부정",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "41a2638f-9829-473b-b0af-9a97d3fffbee",
+                    "hanzi": "不是",
+                    "pinyin": "bú shì",
+                    "meaning": "~이 아니다",
+                    "example": "她不是我的姐姐。",
+                    "examplePinyin": "Tā bú shì wǒ de jiějie.",
+                    "exampleMeaning": "그녀는 제 언니가 아닙니다.",
+                    "tags": [
+                        "판단",
+                        "부정",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "c7cb74f4-f134-4d48-b36d-fe21247da203",
+                    "hanzi": "他",
+                    "pinyin": "tā",
+                    "meaning": "그",
+                    "example": "他是我的朋友。",
+                    "examplePinyin": "Tā shì wǒ de péngyou.",
+                    "exampleMeaning": "그는 제 친구입니다.",
+                    "tags": [
+                        "인칭",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "18962068-7aae-4cc5-8a7f-72a66c69bb7b",
+                    "hanzi": "她",
+                    "pinyin": "tā",
+                    "meaning": "그녀",
+                    "example": "她是我的同学。",
+                    "examplePinyin": "Tā shì wǒ de tóngxué.",
+                    "exampleMeaning": "그녀는 제 학교 친구입니다.",
+                    "tags": [
+                        "인칭",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "3db87db0-39f1-4a37-9afe-5d751bd88389",
+                    "hanzi": "他们",
+                    "pinyin": "tāmen",
+                    "meaning": "그들",
+                    "example": "他们都是我的同事。",
+                    "examplePinyin": "Tāmen dōu shì wǒ de tóngshì.",
+                    "exampleMeaning": "그들은 모두 제 동료입니다.",
+                    "tags": [
+                        "인칭",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "efbdf4aa-936c-4b3a-a500-6793454dea96",
+                    "hanzi": "男",
+                    "pinyin": "nán",
+                    "meaning": "남자; 남성",
+                    "example": "他是男同学。",
+                    "examplePinyin": "Tā shì nán tóngxué.",
+                    "exampleMeaning": "그는 남학생입니다.",
+                    "tags": [
+                        "인칭",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "a2c01258-c17b-424e-84a5-c852e0a36cf7",
+                    "hanzi": "朋友",
+                    "pinyin": "péngyou",
+                    "meaning": "친구",
+                    "example": "他是我的好朋友。",
+                    "examplePinyin": "Tā shì wǒ de hǎo péngyou.",
+                    "exampleMeaning": "그는 제 좋은 친구입니다.",
+                    "tags": [
+                        "관계",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "910c51c9-4d4e-44a8-a3be-d3fbd724738c",
+                    "hanzi": "男朋友",
+                    "pinyin": "nánpéngyou",
+                    "meaning": "남자친구",
+                    "example": "他是我姐姐的男朋友。",
+                    "examplePinyin": "Tā shì wǒ jiějie de nánpéngyou.",
+                    "exampleMeaning": "그는 제 언니의 남자친구입니다.",
+                    "tags": [
+                        "관계",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "52cd4bc6-f97e-4f0d-84be-ad24ca0856db",
+                    "hanzi": "女朋友",
+                    "pinyin": "nǚpéngyou",
+                    "meaning": "여자친구",
+                    "example": "她是我哥哥的女朋友。",
+                    "examplePinyin": "Tā shì wǒ gēge de nǚpéngyou.",
+                    "exampleMeaning": "그녀는 제 오빠의 여자친구입니다.",
+                    "tags": [
+                        "관계",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "3ebcaaa9-04e7-4a40-8a0c-b74acaa565bb",
+                    "hanzi": "同事",
+                    "pinyin": "tóngshì",
+                    "meaning": "동료",
+                    "example": "王先生是我的同事。",
+                    "examplePinyin": "Wáng xiānsheng shì wǒ de tóngshì.",
+                    "exampleMeaning": "왕 선생님은 제 동료입니다.",
+                    "tags": [
+                        "관계",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "8a8814d7-668b-4179-a49c-9c57fdf168a8",
+                    "hanzi": "哥哥",
+                    "pinyin": "gēge",
+                    "meaning": "오빠; 형",
+                    "example": "我哥哥在大学学习。",
+                    "examplePinyin": "Wǒ gēge zài dàxué xuéxí.",
+                    "exampleMeaning": "제 오빠는 대학교에서 공부합니다.",
+                    "tags": [
+                        "가족",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "1243b277-bf3e-4fb3-a67b-f8b2f97ba87b",
+                    "hanzi": "姐姐",
+                    "pinyin": "jiějie",
+                    "meaning": "언니; 누나",
+                    "example": "我姐姐是老师。",
+                    "examplePinyin": "Wǒ jiějie shì lǎoshī.",
+                    "exampleMeaning": "제 언니는 선생님입니다.",
+                    "tags": [
+                        "가족",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "8157a315-0265-4a9f-8447-de6e15fa6b5b",
+                    "hanzi": "弟弟",
+                    "pinyin": "dìdi",
+                    "meaning": "남동생",
+                    "example": "我弟弟今年十岁。",
+                    "examplePinyin": "Wǒ dìdi jīnnián shí suì.",
+                    "exampleMeaning": "제 남동생은 올해 열 살입니다.",
+                    "tags": [
+                        "가족",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "1eedf64a-bc80-4139-adc6-2ba3b0f57318",
+                    "hanzi": "妹妹",
+                    "pinyin": "mèimei",
+                    "meaning": "여동생",
+                    "example": "我妹妹喜欢看书。",
+                    "examplePinyin": "Wǒ mèimei xǐhuan kàn shū.",
+                    "exampleMeaning": "제 여동생은 책 읽기를 좋아합니다.",
+                    "tags": [
+                        "가족",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "70fe0e25-5618-4bf9-8024-d3ccd37459e8",
+                    "hanzi": "这",
+                    "pinyin": "zhè",
+                    "meaning": "이; 이것; 이 사람",
+                    "example": "这是谁的书？",
+                    "examplePinyin": "Zhè shì shéi de shū?",
+                    "exampleMeaning": "이것은 누구의 책인가요?",
+                    "tags": [
+                        "지시대사",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "e64e0330-3430-4b17-8d1e-a891ef90a05f",
+                    "hanzi": "那",
+                    "pinyin": "nà",
+                    "meaning": "저; 저것; 저 사람",
+                    "example": "那是我的朋友。",
+                    "examplePinyin": "Nà shì wǒ de péngyou.",
+                    "exampleMeaning": "저 사람은 제 친구입니다.",
+                    "tags": [
+                        "지시대사",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "a8496b32-eef4-4049-9e5e-9d41a163ef35",
+                    "hanzi": "谁",
+                    "pinyin": "shéi/shuí",
+                    "meaning": "누구",
+                    "example": "他是谁？",
+                    "examplePinyin": "Tā shì shéi?",
+                    "exampleMeaning": "그는 누구인가요?",
+                    "tags": [
+                        "의문대사",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "2187f604-5c04-4e8e-aff5-6e3988b11054",
+                    "hanzi": "吗",
+                    "pinyin": "ma",
+                    "meaning": "의문문 끝에 붙는 조사",
+                    "example": "你是学生吗？",
+                    "examplePinyin": "Nǐ shì xuésheng ma?",
+                    "exampleMeaning": "당신은 학생인가요?",
+                    "tags": [
+                        "의문",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "c94662d5-b6cc-43ca-9214-eb5d5d0d42cd",
+                    "hanzi": "请问",
+                    "pinyin": "qǐngwèn",
+                    "meaning": "실례지만; 여쭤볼게요",
+                    "example": "请问，洗手间在哪儿？",
+                    "examplePinyin": "Qǐngwèn, xǐshǒujiān zài nǎr?",
+                    "exampleMeaning": "실례지만, 화장실은 어디에 있나요?",
+                    "tags": [
+                        "인사",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "0c843325-3df6-4c71-a35c-840636f3e2a0",
+                    "hanzi": "同学",
+                    "pinyin": "tóngxué",
+                    "meaning": "동창; 학교 친구",
+                    "example": "她是我的大学同学。",
+                    "examplePinyin": "Tā shì wǒ de dàxué tóngxué.",
+                    "exampleMeaning": "그녀는 제 대학 동창입니다.",
+                    "tags": [
+                        "관계",
+                        "학교",
+                        "기초회화"
+                    ]
                 }
             ]
         }
