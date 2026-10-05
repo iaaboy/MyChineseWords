@@ -31,7 +31,12 @@
                     "hanzi": "韩国",
                     "pinyin": "Hánguó",
                     "meaning": "한국",
-                    "tags": []
+                    "example": "我是韩国人。",
+                    "examplePinyin": "Wǒ shì Hánguó rén.",
+                    "exampleMeaning": "저는 한국 사람입니다.",
+                    "tags": [
+                        "국가"
+                    ]
                 },
                 {
                     "id": "7f87b9fd-eb3e-41c0-91ad-9d2ba1978cac",
@@ -514,6 +519,134 @@
                         "관계",
                         "학교",
                         "기초회화"
+                    ]
+                },
+                {
+                    "id": "d43d86ce-578a-46ac-95a6-ac3d36802ede",
+                    "hanzi": "什么",
+                    "pinyin": "shénme",
+                    "meaning": "무엇; 무슨",
+                    "example": "你叫什么名字？",
+                    "examplePinyin": "Nǐ jiào shénme míngzi?",
+                    "exampleMeaning": "당신은 이름이 무엇인가요?",
+                    "tags": [
+                        "의문대사",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "e9247482-2b2e-4fa8-930a-ebf16267579f",
+                    "hanzi": "哪",
+                    "pinyin": "nǎ",
+                    "meaning": "어느",
+                    "example": "你是哪国人？",
+                    "examplePinyin": "Nǐ shì nǎ guó rén?",
+                    "exampleMeaning": "당신은 어느 나라 사람인가요?",
+                    "tags": [
+                        "의문대사",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "655e0ad0-2869-4b8e-bb11-407b020099c4",
+                    "hanzi": "名字",
+                    "pinyin": "míngzi",
+                    "meaning": "이름",
+                    "example": "我的名字叫李明。",
+                    "examplePinyin": "Wǒ de míngzi jiào Lǐ Míng.",
+                    "exampleMeaning": "제 이름은 리밍입니다.",
+                    "tags": [
+                        "이름",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "bf6eb8cf-08b8-4663-a4ee-c03db8d72b96",
+                    "hanzi": "叫",
+                    "pinyin": "jiào",
+                    "meaning": "~라고 부르다; ~라는 이름이다",
+                    "example": "我叫王小美。",
+                    "examplePinyin": "Wǒ jiào Wáng Xiǎoměi.",
+                    "exampleMeaning": "제 이름은 왕샤오메이입니다.",
+                    "tags": [
+                        "이름",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "daa62f8d-2545-4056-935d-737e4a31c927",
+                    "hanzi": "国",
+                    "pinyin": "guó",
+                    "meaning": "나라",
+                    "example": "他是哪国人？",
+                    "examplePinyin": "Tā shì nǎ guó rén?",
+                    "exampleMeaning": "그는 어느 나라 사람인가요?",
+                    "tags": [
+                        "국가",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "57b94c9e-2dc3-4a13-8ad7-76c314a28c0b",
+                    "hanzi": "人",
+                    "pinyin": "rén",
+                    "meaning": "사람",
+                    "example": "那个人是我的同事。",
+                    "examplePinyin": "Nà ge rén shì wǒ de tóngshì.",
+                    "exampleMeaning": "저 사람은 제 동료입니다.",
+                    "tags": [
+                        "사람",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "56ed3768-d6c9-4216-8585-99391a90f6e0",
+                    "hanzi": "贵姓",
+                    "pinyin": "guìxìng",
+                    "meaning": "성함이 어떻게 되시나요?",
+                    "example": "请问，您贵姓？",
+                    "examplePinyin": "Qǐngwèn, nín guìxìng?",
+                    "exampleMeaning": "실례지만, 성함이 어떻게 되시나요?",
+                    "tags": [
+                        "높임말",
+                        "이름",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "64891265-739f-4d0e-83af-70cf9d7709a4",
+                    "hanzi": "中国",
+                    "pinyin": "Zhōngguó",
+                    "meaning": "중국",
+                    "example": "他是中国人。",
+                    "examplePinyin": "Tā shì Zhōngguó rén.",
+                    "exampleMeaning": "그는 중국 사람입니다.",
+                    "tags": [
+                        "국가"
+                    ]
+                },
+                {
+                    "id": "30e9109f-f078-45d1-b114-c6741b31b2e9",
+                    "hanzi": "美国",
+                    "pinyin": "Měiguó",
+                    "meaning": "미국",
+                    "example": "她来自美国。",
+                    "examplePinyin": "Tā láizì Měiguó.",
+                    "exampleMeaning": "그녀는 미국에서 왔습니다.",
+                    "tags": [
+                        "국가"
+                    ]
+                },
+                {
+                    "id": "6386e761-a5b1-476d-b2dd-038064fce083",
+                    "hanzi": "日本",
+                    "pinyin": "Rìběn",
+                    "meaning": "일본",
+                    "example": "我朋友住在日本。",
+                    "examplePinyin": "Wǒ péngyou zhù zài Rìběn.",
+                    "exampleMeaning": "제 친구는 일본에 삽니다.",
+                    "tags": [
+                        "국가"
                     ]
                 }
             ]
