@@ -648,6 +648,282 @@
                     "tags": [
                         "국가"
                     ]
+                },
+                {
+                    "id": "5b20289b-82ca-474a-92ff-d25626196144",
+                    "hanzi": "喜欢",
+                    "pinyin": "xǐhuan",
+                    "meaning": "좋아하다",
+                    "example": "我喜欢看电影。",
+                    "examplePinyin": "Wǒ xǐhuan kàn diànyǐng.",
+                    "exampleMeaning": "나는 영화 보기를 좋아한다.",
+                    "tags": [
+                        "동사",
+                        "취향"
+                    ]
+                },
+                {
+                    "id": "9099c3a8-9797-4128-8471-d502546496ce",
+                    "hanzi": "看",
+                    "pinyin": "kàn",
+                    "meaning": "보다; 읽다",
+                    "example": "你喜欢看什么电影？",
+                    "examplePinyin": "Nǐ xǐhuan kàn shénme diànyǐng?",
+                    "exampleMeaning": "너는 어떤 영화 보기를 좋아하니?",
+                    "tags": [
+                        "동사"
+                    ]
+                },
+                {
+                    "id": "a91eedac-db6c-4e2b-9739-f067aa751460",
+                    "hanzi": "吃",
+                    "pinyin": "chī",
+                    "meaning": "먹다",
+                    "example": "我喜欢吃苹果。",
+                    "examplePinyin": "Wǒ xǐhuan chī píngguǒ.",
+                    "exampleMeaning": "나는 사과 먹기를 좋아한다.",
+                    "tags": [
+                        "동사",
+                        "음식"
+                    ]
+                },
+                {
+                    "id": "08bb1d02-7f6c-4fcb-81f9-24b689fea007",
+                    "hanzi": "玩",
+                    "pinyin": "wán",
+                    "meaning": "놀다; 즐기다",
+                    "example": "他喜欢玩手机。",
+                    "examplePinyin": "Tā xǐhuan wán shǒujī.",
+                    "exampleMeaning": "그는 휴대폰으로 노는 것을 좋아한다.",
+                    "tags": [
+                        "동사",
+                        "여가"
+                    ]
+                },
+                {
+                    "id": "e1a074c2-87c1-4539-a872-d264b72053b0",
+                    "hanzi": "喝",
+                    "pinyin": "hē",
+                    "meaning": "마시다",
+                    "example": "我喜欢喝咖啡。",
+                    "examplePinyin": "Wǒ xǐhuan hē kāfēi.",
+                    "exampleMeaning": "나는 커피 마시기를 좋아한다.",
+                    "tags": [
+                        "동사",
+                        "음료"
+                    ]
+                },
+                {
+                    "id": "8e16e987-bdaa-40ab-b079-a46838d04e6b",
+                    "hanzi": "听",
+                    "pinyin": "tīng",
+                    "meaning": "듣다",
+                    "example": "她喜欢听音乐。",
+                    "examplePinyin": "Tā xǐhuan tīng yīnyuè.",
+                    "exampleMeaning": "그녀는 음악 듣기를 좋아한다.",
+                    "tags": [
+                        "동사"
+                    ]
+                },
+                {
+                    "id": "98278e28-19a3-4306-9e55-e84ba75aba86",
+                    "hanzi": "学",
+                    "pinyin": "xué",
+                    "meaning": "배우다; 공부하다",
+                    "example": "我喜欢学外语。",
+                    "examplePinyin": "Wǒ xǐhuan xué wàiyǔ.",
+                    "exampleMeaning": "나는 외국어 배우기를 좋아한다.",
+                    "tags": [
+                        "동사",
+                        "학습"
+                    ]
+                },
+                {
+                    "id": "ed3e8f3e-d5c3-4937-9589-4028c1a6fb7b",
+                    "hanzi": "电影",
+                    "pinyin": "diànyǐng",
+                    "meaning": "영화",
+                    "example": "这部电影很好看。",
+                    "examplePinyin": "Zhè bù diànyǐng hěn hǎokàn.",
+                    "exampleMeaning": "이 영화는 아주 재미있다.",
+                    "tags": [
+                        "명사",
+                        "여가"
+                    ]
+                },
+                {
+                    "id": "d8d02acc-7e7b-4339-880a-a5f6f7da587c",
+                    "hanzi": "牛排",
+                    "pinyin": "niúpái",
+                    "meaning": "스테이크",
+                    "example": "他喜欢吃牛排。",
+                    "examplePinyin": "Tā xǐhuan chī niúpái.",
+                    "exampleMeaning": "그는 스테이크 먹기를 좋아한다.",
+                    "tags": [
+                        "명사",
+                        "음식"
+                    ]
+                },
+                {
+                    "id": "ce8a0fb0-b2a2-4de9-9777-49b6431a8f7d",
+                    "hanzi": "运动",
+                    "pinyin": "yùndòng",
+                    "meaning": "운동; 운동하다",
+                    "example": "我们都喜欢运动。",
+                    "examplePinyin": "Wǒmen dōu xǐhuan yùndòng.",
+                    "exampleMeaning": "우리는 모두 운동을 좋아한다.",
+                    "tags": [
+                        "명사",
+                        "동사",
+                        "운동"
+                    ]
+                },
+                {
+                    "id": "7ab0de18-d54a-43a5-ab3b-f6f8f4a2208d",
+                    "hanzi": "旅游",
+                    "pinyin": "lǚyóu",
+                    "meaning": "여행; 여행하다",
+                    "example": "我很喜欢旅游。",
+                    "examplePinyin": "Wǒ hěn xǐhuan lǚyóu.",
+                    "exampleMeaning": "나는 여행을 아주 좋아한다.",
+                    "tags": [
+                        "명사",
+                        "동사",
+                        "여행"
+                    ]
+                },
+                {
+                    "id": "7091cbed-bd5f-47ae-a53c-82f98a4a9bb8",
+                    "hanzi": "手机",
+                    "pinyin": "shǒujī",
+                    "meaning": "휴대폰",
+                    "example": "这是我的手机。",
+                    "examplePinyin": "Zhè shì wǒ de shǒujī.",
+                    "exampleMeaning": "이것은 내 휴대폰이다.",
+                    "tags": [
+                        "명사",
+                        "일상"
+                    ]
+                },
+                {
+                    "id": "0140f4a2-a905-4cae-b781-ca03d0c5888f",
+                    "hanzi": "咖啡",
+                    "pinyin": "kāfēi",
+                    "meaning": "커피",
+                    "example": "你喜欢喝咖啡吗？",
+                    "examplePinyin": "Nǐ xǐhuan hē kāfēi ma?",
+                    "exampleMeaning": "너는 커피 마시기를 좋아하니?",
+                    "tags": [
+                        "명사",
+                        "음료"
+                    ]
+                },
+                {
+                    "id": "edec1d81-89a8-4f7a-afdb-e0b1378b7a49",
+                    "hanzi": "美式咖啡",
+                    "pinyin": "měishì kāfēi",
+                    "meaning": "아메리카노",
+                    "example": "我只喝美式咖啡。",
+                    "examplePinyin": "Wǒ zhǐ hē měishì kāfēi.",
+                    "exampleMeaning": "나는 아메리카노만 마신다.",
+                    "tags": [
+                        "명사",
+                        "음료",
+                        "카페"
+                    ]
+                },
+                {
+                    "id": "e791e64e-1410-4fa6-8bbc-b5c2a76537ff",
+                    "hanzi": "音乐",
+                    "pinyin": "yīnyuè",
+                    "meaning": "음악",
+                    "example": "我很喜欢听音乐。",
+                    "examplePinyin": "Wǒ hěn xǐhuan tīng yīnyuè.",
+                    "exampleMeaning": "나는 음악 듣기를 아주 좋아한다.",
+                    "tags": [
+                        "명사",
+                        "여가"
+                    ]
+                },
+                {
+                    "id": "c127291d-a0bf-4e8f-9318-7578f4e690b8",
+                    "hanzi": "外语",
+                    "pinyin": "wàiyǔ",
+                    "meaning": "외국어",
+                    "example": "她喜欢学外语。",
+                    "examplePinyin": "Tā xǐhuan xué wàiyǔ.",
+                    "exampleMeaning": "그녀는 외국어 배우기를 좋아한다.",
+                    "tags": [
+                        "명사",
+                        "학습"
+                    ]
+                },
+                {
+                    "id": "fb4e0140-09bd-4cf1-b983-3423e8c256c0",
+                    "hanzi": "苹果",
+                    "pinyin": "píngguǒ",
+                    "meaning": "사과",
+                    "example": "我每天吃一个苹果。",
+                    "examplePinyin": "Wǒ měitiān chī yí ge píngguǒ.",
+                    "exampleMeaning": "나는 매일 사과 한 개를 먹는다.",
+                    "tags": [
+                        "명사",
+                        "음식",
+                        "과일"
+                    ]
+                },
+                {
+                    "id": "12097a87-7c3f-4a9d-9799-60681248ff38",
+                    "hanzi": "很",
+                    "pinyin": "hěn",
+                    "meaning": "매우; 아주",
+                    "example": "我很喜欢这部电影。",
+                    "examplePinyin": "Wǒ hěn xǐhuan zhè bù diànyǐng.",
+                    "exampleMeaning": "나는 이 영화를 아주 좋아한다.",
+                    "tags": [
+                        "부사",
+                        "정도"
+                    ]
+                },
+                {
+                    "id": "7fd0e141-091f-4773-ab2b-68035871cb1d",
+                    "hanzi": "只",
+                    "pinyin": "zhǐ",
+                    "meaning": "오직; 단지; ~만",
+                    "example": "他只喜欢喝咖啡。",
+                    "examplePinyin": "Tā zhǐ xǐhuan hē kāfēi.",
+                    "exampleMeaning": "그는 커피 마시는 것만 좋아한다.",
+                    "tags": [
+                        "부사",
+                        "한정"
+                    ]
+                },
+                {
+                    "id": "b47f52fa-9707-4dba-86e6-f76e8ac6cc73",
+                    "hanzi": "都",
+                    "pinyin": "dōu",
+                    "meaning": "모두; 다",
+                    "example": "他们都喜欢旅游。",
+                    "examplePinyin": "Tāmen dōu xǐhuan lǚyóu.",
+                    "exampleMeaning": "그들은 모두 여행을 좋아한다.",
+                    "tags": [
+                        "부사",
+                        "범위"
+                    ]
+                },
+                {
+                    "id": "41b1c08f-6346-41ae-959a-b27b2c769ffa",
+                    "hanzi": "不太",
+                    "pinyin": "bú tài",
+                    "meaning": "그다지 ~하지 않다; 별로 ~하지 않다",
+                    "example": "我不太喜欢喝咖啡。",
+                    "examplePinyin": "Wǒ bú tài xǐhuan hē kāfēi.",
+                    "exampleMeaning": "나는 커피 마시기를 별로 좋아하지 않는다.",
+                    "tags": [
+                        "부정",
+                        "정도",
+                        "취향"
+                    ]
                 }
             ]
         }
