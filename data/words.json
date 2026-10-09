@@ -924,6 +924,377 @@
                         "정도",
                         "취향"
                     ]
+                },
+                {
+                    "id": "00a72e47-d310-4bee-805e-4968062ac598",
+                    "hanzi": "有",
+                    "pinyin": "yǒu",
+                    "meaning": "있다; 가지고 있다",
+                    "example": "我有一个姐姐。",
+                    "examplePinyin": "Wǒ yǒu yí ge jiějie.",
+                    "exampleMeaning": "저는 언니가 한 명 있습니다.",
+                    "tags": [
+                        "동사",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "fd5631c1-5134-4322-a040-77552fa0fa22",
+                    "hanzi": "没有",
+                    "pinyin": "méiyǒu",
+                    "meaning": "없다; 가지고 있지 않다",
+                    "example": "我没有弟弟。",
+                    "examplePinyin": "Wǒ méiyǒu dìdi.",
+                    "exampleMeaning": "저는 남동생이 없습니다.",
+                    "tags": [
+                        "동사",
+                        "부정",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "6b41f499-9408-495e-9e0c-d729cd0e0a5b",
+                    "hanzi": "家",
+                    "pinyin": "jiā",
+                    "meaning": "집; 가족",
+                    "example": "我家有四个人。",
+                    "examplePinyin": "Wǒ jiā yǒu sì ge rén.",
+                    "exampleMeaning": "우리 가족은 네 명입니다.",
+                    "tags": [
+                        "가족",
+                        "장소",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "18bd5f13-ec1f-46c5-8274-a605be34cf3f",
+                    "hanzi": "个",
+                    "pinyin": "gè",
+                    "meaning": "사람이나 사물을 두루 세는 양사",
+                    "example": "我有一个中国朋友。",
+                    "examplePinyin": "Wǒ yǒu yí ge Zhōngguó péngyou.",
+                    "exampleMeaning": "저는 중국인 친구가 한 명 있습니다.",
+                    "tags": [
+                        "양사",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "d88db6d9-4a88-4171-b9f2-56a485694df7",
+                    "hanzi": "只",
+                    "pinyin": "zhī",
+                    "meaning": "동물 등을 세는 양사",
+                    "example": "我家有一只狗。",
+                    "examplePinyin": "Wǒ jiā yǒu yì zhī gǒu.",
+                    "exampleMeaning": "우리 집에는 강아지가 한 마리 있습니다.",
+                    "tags": [
+                        "양사",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "326343ea-a46d-4dae-a231-bd7ee4190fc5",
+                    "hanzi": "位",
+                    "pinyin": "wèi",
+                    "meaning": "사람을 높여 세는 양사",
+                    "example": "那位老师是中国人。",
+                    "examplePinyin": "Nà wèi lǎoshī shì Zhōngguó rén.",
+                    "exampleMeaning": "저 선생님은 중국인입니다.",
+                    "tags": [
+                        "양사",
+                        "높임말",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "2cd5f345-1ee2-4309-ad34-3f2be22a0403",
+                    "hanzi": "瓶",
+                    "pinyin": "píng",
+                    "meaning": "병에 든 것을 세는 양사",
+                    "example": "我买了两瓶可乐。",
+                    "examplePinyin": "Wǒ mǎi le liǎng píng kělè.",
+                    "exampleMeaning": "저는 콜라 두 병을 샀습니다.",
+                    "tags": [
+                        "양사",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "5b63c58a-c9f5-4db3-9973-bb388bc97963",
+                    "hanzi": "订书机",
+                    "pinyin": "dìngshūjī",
+                    "meaning": "스테이플러; 호치키스",
+                    "example": "桌子上有一个订书机。",
+                    "examplePinyin": "Zhuōzi shàng yǒu yí ge dìngshūjī.",
+                    "exampleMeaning": "책상 위에 스테이플러가 하나 있습니다.",
+                    "tags": [
+                        "사물",
+                        "문구"
+                    ]
+                },
+                {
+                    "id": "a8cfcb56-4603-42f0-bc05-73e830b58372",
+                    "hanzi": "眼镜布",
+                    "pinyin": "yǎnjìngbù",
+                    "meaning": "안경닦이 천",
+                    "example": "这块眼镜布很干净。",
+                    "examplePinyin": "Zhè kuài yǎnjìngbù hěn gānjìng.",
+                    "exampleMeaning": "이 안경닦이 천은 매우 깨끗합니다.",
+                    "tags": [
+                        "사물",
+                        "생활용품"
+                    ]
+                },
+                {
+                    "id": "765a5698-4bf7-4701-8ff7-5103789e64e3",
+                    "hanzi": "护手霜",
+                    "pinyin": "hùshǒushuāng",
+                    "meaning": "핸드크림",
+                    "example": "我有一瓶护手霜。",
+                    "examplePinyin": "Wǒ yǒu yì píng hùshǒushuāng.",
+                    "exampleMeaning": "저는 핸드크림이 한 병 있습니다.",
+                    "tags": [
+                        "사물",
+                        "생활용품"
+                    ]
+                },
+                {
+                    "id": "70868c98-940c-4ef4-bb4e-a2c0dffc6a5c",
+                    "hanzi": "中国朋友",
+                    "pinyin": "Zhōngguó péngyou",
+                    "meaning": "중국인 친구",
+                    "example": "她是我的中国朋友。",
+                    "examplePinyin": "Tā shì wǒ de Zhōngguó péngyou.",
+                    "exampleMeaning": "그녀는 제 중국인 친구입니다.",
+                    "tags": [
+                        "사람",
+                        "관계",
+                        "국가"
+                    ]
+                },
+                {
+                    "id": "6680a01a-c31a-4196-966d-4a2efe28d70a",
+                    "hanzi": "本子",
+                    "pinyin": "běnzi",
+                    "meaning": "공책; 노트",
+                    "example": "我有三个本子。",
+                    "examplePinyin": "Wǒ yǒu sān ge běnzi.",
+                    "exampleMeaning": "저는 공책이 세 권 있습니다.",
+                    "tags": [
+                        "사물",
+                        "문구"
+                    ]
+                },
+                {
+                    "id": "0ca585ee-c2bf-48e2-912b-b634622267ac",
+                    "hanzi": "狗",
+                    "pinyin": "gǒu",
+                    "meaning": "개; 강아지",
+                    "example": "我家有两只狗。",
+                    "examplePinyin": "Wǒ jiā yǒu liǎng zhī gǒu.",
+                    "exampleMeaning": "우리 집에는 강아지가 두 마리 있습니다.",
+                    "tags": [
+                        "동물",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "2769557c-c024-4791-b469-73286fb97feb",
+                    "hanzi": "老师",
+                    "pinyin": "lǎoshī",
+                    "meaning": "선생님",
+                    "example": "王老师是中国人。",
+                    "examplePinyin": "Wáng lǎoshī shì Zhōngguó rén.",
+                    "exampleMeaning": "왕 선생님은 중국인입니다.",
+                    "tags": [
+                        "사람",
+                        "직업",
+                        "학교"
+                    ]
+                },
+                {
+                    "id": "1e1a2de7-a5f8-4cfa-8ddc-faa7fe8d0513",
+                    "hanzi": "可乐",
+                    "pinyin": "kělè",
+                    "meaning": "콜라",
+                    "example": "请给我一瓶可乐。",
+                    "examplePinyin": "Qǐng gěi wǒ yì píng kělè.",
+                    "exampleMeaning": "콜라 한 병 주세요.",
+                    "tags": [
+                        "음료",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "19c4bc89-f767-4a5b-ab49-24713480f75c",
+                    "hanzi": "几",
+                    "pinyin": "jǐ",
+                    "meaning": "몇; 얼마",
+                    "example": "你家有几个人？",
+                    "examplePinyin": "Nǐ jiā yǒu jǐ ge rén?",
+                    "exampleMeaning": "가족이 몇 명인가요?",
+                    "tags": [
+                        "의문사",
+                        "숫자",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "69a5a828-d4f6-4e8e-90e4-9e793a8d7dbb",
+                    "hanzi": "零",
+                    "pinyin": "líng",
+                    "meaning": "0; 영",
+                    "example": "今天是零度。",
+                    "examplePinyin": "Jīntiān shì líng dù.",
+                    "exampleMeaning": "오늘은 0도입니다.",
+                    "tags": [
+                        "숫자",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "537434ef-86a7-40d3-a3e5-a2a7d4dc15da",
+                    "hanzi": "一",
+                    "pinyin": "yī",
+                    "meaning": "1; 하나",
+                    "example": "我有一个姐姐。",
+                    "examplePinyin": "Wǒ yǒu yí ge jiějie.",
+                    "exampleMeaning": "저는 언니가 한 명 있습니다.",
+                    "tags": [
+                        "숫자",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "fe66aeba-6e06-4a6c-96c4-de5525288417",
+                    "hanzi": "二",
+                    "pinyin": "èr",
+                    "meaning": "2; 둘",
+                    "example": "二加三等于五。",
+                    "examplePinyin": "Èr jiā sān děngyú wǔ.",
+                    "exampleMeaning": "2 더하기 3은 5입니다.",
+                    "tags": [
+                        "숫자",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "224a027d-361e-47fc-9dfb-7612b4512fd2",
+                    "hanzi": "三",
+                    "pinyin": "sān",
+                    "meaning": "3; 셋",
+                    "example": "我有三个本子。",
+                    "examplePinyin": "Wǒ yǒu sān ge běnzi.",
+                    "exampleMeaning": "저는 공책이 세 권 있습니다.",
+                    "tags": [
+                        "숫자",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "74f2fdde-052f-4c6c-b5bd-7e264e8802a8",
+                    "hanzi": "四",
+                    "pinyin": "sì",
+                    "meaning": "4; 넷",
+                    "example": "我家有四个人。",
+                    "examplePinyin": "Wǒ jiā yǒu sì ge rén.",
+                    "exampleMeaning": "우리 가족은 네 명입니다.",
+                    "tags": [
+                        "숫자",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "56f7a689-7855-45fd-84c7-442540afc2c7",
+                    "hanzi": "五",
+                    "pinyin": "wǔ",
+                    "meaning": "5; 다섯",
+                    "example": "我有五本书。",
+                    "examplePinyin": "Wǒ yǒu wǔ běn shū.",
+                    "exampleMeaning": "저는 책이 다섯 권 있습니다.",
+                    "tags": [
+                        "숫자",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "a5b02af3-1211-4241-a246-d67b42a0eb05",
+                    "hanzi": "六",
+                    "pinyin": "liù",
+                    "meaning": "6; 여섯",
+                    "example": "我六点回家。",
+                    "examplePinyin": "Wǒ liù diǎn huí jiā.",
+                    "exampleMeaning": "저는 여섯 시에 집에 갑니다.",
+                    "tags": [
+                        "숫자",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "61c2bf7c-afcb-4455-b417-23190e106a83",
+                    "hanzi": "七",
+                    "pinyin": "qī",
+                    "meaning": "7; 일곱",
+                    "example": "一个星期有七天。",
+                    "examplePinyin": "Yí ge xīngqī yǒu qī tiān.",
+                    "exampleMeaning": "일주일은 7일입니다.",
+                    "tags": [
+                        "숫자",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "23e8d362-8597-441f-9372-a24c0555b506",
+                    "hanzi": "八",
+                    "pinyin": "bā",
+                    "meaning": "8; 여덟",
+                    "example": "我八点去学校。",
+                    "examplePinyin": "Wǒ bā diǎn qù xuéxiào.",
+                    "exampleMeaning": "저는 여덟 시에 학교에 갑니다.",
+                    "tags": [
+                        "숫자",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "ea519d26-d879-4333-8ecb-026daa8003d3",
+                    "hanzi": "九",
+                    "pinyin": "jiǔ",
+                    "meaning": "9; 아홉",
+                    "example": "现在九点。",
+                    "examplePinyin": "Xiànzài jiǔ diǎn.",
+                    "exampleMeaning": "지금은 아홉 시입니다.",
+                    "tags": [
+                        "숫자",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "8883657e-63d3-45a2-940f-e3e182740a39",
+                    "hanzi": "十",
+                    "pinyin": "shí",
+                    "meaning": "10; 열",
+                    "example": "我有十个中国朋友。",
+                    "examplePinyin": "Wǒ yǒu shí ge Zhōngguó péngyou.",
+                    "exampleMeaning": "저는 중국인 친구가 열 명 있습니다.",
+                    "tags": [
+                        "숫자",
+                        "기초회화"
+                    ]
+                },
+                {
+                    "id": "12523a7f-8796-405e-addc-17e0d9fd029b",
+                    "hanzi": "两",
+                    "pinyin": "liǎng",
+                    "meaning": "둘; 두 (양사 앞에서 사용)",
+                    "example": "我家有两只狗。",
+                    "examplePinyin": "Wǒ jiā yǒu liǎng zhī gǒu.",
+                    "exampleMeaning": "우리 집에는 강아지가 두 마리 있습니다.",
+                    "tags": [
+                        "숫자",
+                        "양사",
+                        "기초회화"
+                    ]
                 }
             ]
         }
